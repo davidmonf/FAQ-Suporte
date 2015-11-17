@@ -1,0 +1,84 @@
+LOGIN|NOME|GRUPO|QTDE.CONTRATO
+prsa|Paulo Roberto de Souza Alves |postoemp|20
+mam|Michelle Amaral Mendes |postoemp|3
+cevf|Celia Vieira Ferreira |telemkt|2
+acgs|Ana Carolina Gonzaga e Silva |telemkt|4
+tfpe|Tamilyn Furusho Petroni |postoemp|6
+edar|ERICK DE ARAUJO ROCHA |telemkt|2
+maju|Meira Abda Justo |telemkt|5
+pop|Patricia de Oliveira Paranha |telemkt|6
+cdaf|Camila de Araujo Freitas |telemkt|3
+amfa|Andrefison Maciel Figueredo de Almeida |postoemp|2
+amg|Ana Marcia Giacometti |atest|1
+jcs|Jeremias Correia da Silva |atest|1
+cas|Camila Aline da Silva |telemkt|3
+rlb|Rodrigo de Lima Bonnano |telemkt|4
+ksf|Katia dos Santos Ferreira |postoemp|1
+fmal|Flavia Matos Alves |postoemp|1
+acn|Anne Castro Nieto |postoemp|1
+cqsm|Camila Queiroz de Souza Moraes |telemkt|2
+nc|Nathalia Canatelli |telemkt|1
+rjsa|Rodrigo Jose Santos |postoemp|15
+spal|Samira Pereira Alves |atest|14
+csf|Claudia Silva Figueiredo |atest|8
+bnc|Barbara Nobrega Cosielho |telemkt|3
+rsca|Rodrigo Sampaio da Costa Aguiar |telemkt|1
+ssm|Sandra dos Santos Morais |atest|11
+pg|Pedro Gongora Guerini |telemkt|4
+acol|Aliteia Cristina de Oliveira |telemkt|7
+vgls|Viviane Gaya Lopes dos Santos |postoemp|2
+sbmi|Sttela Bastos Miranda |postoemp|4
+msdpp|Mauricio Santos da Paz Palma |telemkt|3
+gmds|Gilberto Marques da Silva |telemkt|2
+drrc|Debora Regina Rosa De Carvalho |postoemp|4
+dd|Daniel Duarte |telemkt|5
+drc|Doris Regina do Carmo |telemkt|2
+lpsi|Luciana Pereira Siqueira |telemkt|6
+aar|Aparecida Araujo Ramos |atest|12
+dqs|Daiane Queiroz da Silva |telemkt|2
+vaj|Vanessa Alves de Jesus |postoemp|2
+acosi|Alvimar Costa Silva |telemkt|1
+vps|Viviane Pinto dos Santos Cavalcante |telemkt|1
+eae|Edson Andre Eneas |telemkt|1
+mmsf|Marina Morena Soares Fortunato |telemkt|8
+rfg|Rodrigo Ferreira Gomes |telemkt|2
+krv|Kamila Rosani Vichiato |telemkt|1
+basl|Bruna Araujo de Sousa Lima |telemkt|2
+angag|Anne Goes Aguiar |atest|1
+macar|Mariana Cardoso |postoemp|1
+apb|Adriana Paula Brand?o |sazon|5
+tmlo|Taina Monico Lins Araujo |telemkt|1
+csso|Clodoaldo Soares Silva |telemkt|1
+cmth|Caroline Marques Thomaz |postoemp|1
+pfcr|Peter Frampton Couto Rodrigues |telemkt|7
+ets|Edileuza Terezinha da Silva |telemkt|1
+mpt|Marcio Pinheiro Tsujimoto |telemkt|1
+vpsn|Vanderleia Pereira dos Santos |telemkt|1
+mgs|Melyssa Gomes dos Santos |telemkt|3
+yan|Yago Alves Nascimento |telemkt|9
+fans|Fernanda Aparecida Neri da Silva |telemkt|4
+vlgd|Vera Lucia Guedes Diniz |postoemp|1
+trvg|Thaysa Rakelly Valério Gomes |postoemp|2
+apss|Andreza Paula da Silva Soares |telemkt|3
+kja|Katia Juliana Alves |telemkt|2
+rrl|Renata Rodrigues Lima |telemkt|2
+tdp|Renata Daniela de Paula |telemkt|7
+gps|Gildevan Pedro dos Santos |telemkt|4
+casa|Caroline Ariane da Silva |telemkt|1
+jgn|Jucelina Gomes Nogueira |telemkt|3
+nmo|Natalia Meneses de Oliveira |postoemp|1
+mas|Mariana Abrantes da Silva |telemkt|2
+thcf|Thamiris Christina Faccin |telemkt|6
+jods|Josilene da Silva |pesp|1
+thcl|Thais Helena de Castro Lopes |telemkt|1
+acoj|Antonio Carlos de Oliveira Junior |telemkt|2
+gvbo|Gabriela Vilas Boas de Oliveira |telemkt|1
+asbr|Alane dos Santos Barreto |telemkt|1
+rmae|Roseli Maria de Azevedo |telemkt|1
+aafnds|Aldaliz Aline Freitas Nascimento da Silva |atest|1
+brc|Bruna Raquel Candido |telemkt|2
+vmg|Viviana Maria Guerra |postoemp|1
+mzh|Mariana Zveibil Heimann |admin|2
+vrg|Vinicius Rodrigues Garcia |sazon|1
+vmr|Viviane Maria Rocha |atest|1
+rmc|Rosangela Mara Colozio |telemkt|2

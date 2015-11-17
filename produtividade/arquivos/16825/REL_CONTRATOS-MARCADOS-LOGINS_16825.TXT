@@ -1,0 +1,89 @@
+LOGIN|NOME|GRUPO|QTDE.CONTRATO
+rjsa|Rodrigo Jose Santos |postoemp|21
+jgr|Jaqueline Guedes Rosa |postoemp|1
+aar|Aparecida Araujo Ramos |atest|10
+acol|Aliteia Cristina de Oliveira |telemkt|2
+goc|Guilherme Oliveira Chaves |sazon|1
+prsa|Paulo Roberto de Souza Alves |postoemp|22
+sias|Silvana de Andrade Santos |telemkt|1
+aasb|Alessandra Andrade Silva de Brito |telemkt|1
+kpoc|Kelly Priscila Oliveira Custodio |telemkt|2
+spal|Samira Pereira Alves |atest|13
+pop|Patricia de Oliveira Paranha |telemkt|6
+vaj|Vanessa Alves de Jesus |postoemp|6
+vgls|Viviane Gaya Lopes dos Santos |postoemp|5
+ltsi|Lais Thomaz da Silva |atest|5
+csf|Claudia Silva Figueiredo |atest|7
+macar|Mariana Cardoso |postoemp|4
+ksf|Katia dos Santos Ferreira |postoemp|2
+bnc|Barbara Nobrega Cosielho |telemkt|4
+edar|ERICK DE ARAUJO ROCHA |telemkt|2
+cqsm|Camila Queiroz de Souza Moraes |telemkt|6
+gmds|Gilberto Marques da Silva |telemkt|1
+lrmc|Luiz Rodrigo Moreira de Campos |telemkt|2
+drc|Doris Regina do Carmo |telemkt|1
+cas|Camila Aline da Silva |telemkt|2
+fmal|Flavia Matos Alves |postoemp|3
+amfa|Andrefison Maciel Figueredo de Almeida |postoemp|2
+tcm|Thayne Carvalho de Moura |atest|6
+jmol|Janeffer Mariana de Oliva |telemkt|2
+mam|Michelle Amaral Mendes |postoemp|1
+trvg|Thaysa Rakelly Valério Gomes |postoemp|1
+msls|Maria do Socorro de L. Sampaio |atest|3
+dbsi|Daniele Bispo da Silva |atest|2
+aafnds|Aldaliz Aline Freitas Nascimento da Silva |atest|2
+acosi|Alvimar Costa Silva |telemkt|3
+csso|Clodoaldo Soares Silva |telemkt|1
+snn|Stephanie Nunes do Nascimento |atest|13
+drrc|Debora Regina Rosa De Carvalho |postoemp|4
+cdaf|Camila de Araujo Freitas |telemkt|1
+jods|Josilene da Silva |pesp|3
+pg|Pedro Gongora Guerini |telemkt|4
+nc|Nathalia Canatelli |telemkt|1
+tlp|Thais Lopes Pina |postoie|1
+leapr|Leopoldina Aparecida Ramos |telemkt|1
+sbmi|Sttela Bastos Miranda |postoemp|3
+kja|Katia Juliana Alves |telemkt|1
+dqs|Daiane Queiroz da Silva |telemkt|1
+pfcr|Peter Frampton Couto Rodrigues |telemkt|1
+acoj|Antonio Carlos de Oliveira Junior |telemkt|1
+vmr|Viviane Maria Rocha |atest|2
+acgs|Ana Carolina Gonzaga e Silva |telemkt|1
+vpsn|Vanderleia Pereira dos Santos |telemkt|2
+yan|Yago Alves Nascimento |telemkt|9
+amsa|Andrea Monteiro dos Santos |telemkt|2
+eae|Edson Andre Eneas |telemkt|2
+tdp|Renata Daniela de Paula |telemkt|3
+rrl|Renata Rodrigues Lima |telemkt|2
+apls|Andressa Pamela da Luz Seara |telemkt|2
+asbr|Alane dos Santos Barreto |telemkt|2
+rfa|Rosemeire Ferreira Abrantes |telemkt|1
+rmae|Roseli Maria de Azevedo |telemkt|3
+asj|Ailton dos Santos Junior |telemkt|1
+aad|Andreia Aparecida Duraes |telemkt|2
+rmc|Rosangela Mara Colozio |telemkt|1
+lpsi|Luciana Pereira Siqueira |telemkt|4
+fans|Fernanda Aparecida Neri da Silva |telemkt|2
+ammo|Any Miyuki Morimitsu |telemkt|2
+mmsf|Marina Morena Soares Fortunato |telemkt|6
+tgcs|Thuany Gabriela Candida Santana |telemkt|3
+apf|Ana Paula Freire |telemkt|2
+gps|Gildevan Pedro dos Santos |telemkt|2
+amg|Ana Marcia Giacometti |atest|1
+tfpe|Tamilyn Furusho Petroni |postoemp|3
+esb|Elaine de Souza Bancala |telemkt|2
+casa|Caroline Ariane da Silva |telemkt|5
+nca|Nayone Cardoso Alves |sazon|1
+fss|Fabiana Santos da Silva |postoemp|1
+msdpp|Mauricio Santos da Paz Palma |telemkt|1
+madsr|Maria Aparecida da Silva Ramos |telemkt|2
+jaa|Jaissa Alves de Almeida |postoemp|1
+adbo|Daiane Barbosa de Oliveira |sazon|1
+mzh|Mariana Zveibil Heimann |admin|2
+evst|Erica Veronica Teixeira Marques |postoemp|2
+mpt|Marcio Pinheiro Tsujimoto |telemkt|3
+mgs|Melyssa Gomes dos Santos |telemkt|2
+thcf|Thamiris Christina Faccin |telemkt|2
+cobas|Camila Oliveira Borges de Araujo Silva |telemkt|1
+thcl|Thais Helena de Castro Lopes |telemkt|2
+gvbo|Gabriela Vilas Boas de Oliveira |telemkt|1

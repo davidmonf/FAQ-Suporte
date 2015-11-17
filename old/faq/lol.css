@@ -1,0 +1,88 @@
+
+body {
+ 	font-family:calibri,arial;
+	/**background: #606060 url("imagens/fundo.jpg") fixed;*/
+	}
+
+path_pg{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:7pt;
+	font-style:italic;
+	color: #666;
+	}
+
+.legenda {
+	font-size:10px;
+	color:#ff3333
+	}
+
+.lnk {
+	font-size:15px;
+	color:#FF0000;
+	text-decoration:none;
+	}
+
+a:hover.lnk {
+text-decoration:underline;
+}	
+
+a:hover.lnk_menu {
+text-decoration:underline;
+}	
+
+.menu {
+	width:780;
+	padding-top:7px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:7px;
+	valign:top;
+	text-align:center;
+	font-weight:bold;	
+	background-color:#900000;
+	border:solid 1px #000000;
+	}
+	
+.lnk_menu{
+	font-size:15px;
+ 	color:#0000ff;
+ 	text-decoration:none;
+	}
+
+a:hover.lnk_menu {
+	color:#0000FF;
+	}
+	
+
+.topo {
+  width:800;
+	text-align:center;
+	background-color:#000000;
+	border: solid 1px #666;
+	}
+
+.baixo {
+  font-size:11px;
+	width:780;
+	text-align:center;
+	font-style:italic;
+	background-color:#900000;
+	color:#ffffff;
+	padding-top:7px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:7px;
+	border:solid 1px #000000;
+	valign:top;
+}
+	
+.tab_txt{
+background-image: url("imagens/fundotab.gif");
+	}
+
+	.ajudas
+{
+position:relative;
+left:30%;
+width:300px;
+}

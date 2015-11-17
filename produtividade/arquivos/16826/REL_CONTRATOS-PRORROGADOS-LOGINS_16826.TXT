@@ -1,0 +1,20 @@
+LOGIN|NOME|GRUPO|QTDE.CONTRATO
+rjsa|Rodrigo Jose Santos |postoemp|5
+acasa|Ana Claudia Andrade Sansoni |postoemp|5
+glf|George Lebedendo Ferreira |atest|5
+goc|Guilherme Oliveira Chaves |sazon|6
+jdmo|Joysse Dayne Moreira |osasco|1
+masz|Maria Aparecida da Silva Zolli |sazon|3
+mssr|Michely Suene Ramos Silveira |sazon|7
+msls|Maria do Socorro de L. Sampaio |atest|7
+ilfcb|Inae Luana Ferreira da Cruz de Brito |postoemp|1
+fmal|Flavia Matos Alves |postoemp|1
+vaj|Vanessa Alves de Jesus |postoemp|2
+vrg|Vinicius Rodrigues Garcia |sazon|7
+eap|Edilson de Araujo Pereira |sazon|1
+adbo|Daiane Barbosa de Oliveira |sazon|2
+mam|Michelle Amaral Mendes |postoemp|1
+tdp|Renata Daniela de Paula |sazon|1
+lpods|Luciene Pontes de Souza |atest|2
+macar|Mariana Cardoso |postoemp|1
+jaa|Jaissa Alves de Almeida |postoemp|2

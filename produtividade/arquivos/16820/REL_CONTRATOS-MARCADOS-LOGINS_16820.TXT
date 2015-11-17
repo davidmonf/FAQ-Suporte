@@ -1,0 +1,87 @@
+LOGIN|NOME|GRUPO|QTDE.CONTRATO
+ltsi|Lais Thomaz da Silva |atest|11
+prsa|Paulo Roberto de Souza Alves |postoemp|53
+eafp|Emilio Alves de Franca Pinto |atest|4
+fss|Fabiana Santos da Silva |postoemp|9
+rfg|Rodrigo Ferreira Gomes |telemkt|1
+acol|Aliteia Cristina de Oliveira |telemkt|1
+cevf|Celia Vieira Ferreira |telemkt|2
+aar|Aparecida Araujo Ramos |atest|9
+gmds|Gilberto Marques da Silva |telemkt|1
+tcs|Tatiana Carmo Santos |postoemp|1
+nc|Nathalia Canatelli |telemkt|5
+acoj|Antonio Carlos de Oliveira Junior |telemkt|2
+cdaf|Camila de Araujo Freitas |telemkt|2
+rsca|Rodrigo Sampaio da Costa Aguiar |telemkt|2
+csf|Claudia Silva Figueiredo |atest|5
+fmal|Flavia Matos Alves |postoemp|2
+dd|Daniel Duarte |telemkt|2
+vgls|Viviane Gaya Lopes dos Santos |postoemp|9
+macar|Mariana Cardoso |postoemp|11
+sias|Silvana de Andrade Santos |telemkt|2
+vmr|Viviane Maria Rocha |atest|5
+pop|Patricia de Oliveira Paranha |telemkt|5
+cmth|Caroline Marques Thomaz |postoemp|9
+vaj|Vanessa Alves de Jesus |postoemp|4
+rjsa|Rodrigo Jose Santos |postoemp|19
+spal|Samira Pereira Alves |atest|5
+krv|Kamila Rosani Vichiato |telemkt|3
+lrmc|Luiz Rodrigo Moreira de Campos |telemkt|1
+maju|Meira Abda Justo |telemkt|3
+jfco|Juliana Ferreira da Costa |telemkt|3
+ssm|Sandra dos Santos Morais |atest|9
+cqsm|Camila Queiroz de Souza Moraes |telemkt|1
+msls|Maria do Socorro de L. Sampaio |atest|3
+tfpe|Tamilyn Furusho Petroni |postoemp|4
+bnc|Barbara Nobrega Cosielho |telemkt|4
+tmlo|Taina Monico Lins Araujo |telemkt|2
+acosi|Alvimar Costa Silva |telemkt|3
+basl|Bruna Araujo de Sousa Lima |telemkt|2
+eae|Edson Andre Eneas |telemkt|2
+amg|Ana Marcia Giacometti |atest|3
+sbmi|Sttela Bastos Miranda |postoemp|21
+fnnas|Felipe Norberto Nocera Andrade Souza |telemkt|2
+gbp|Gabriel Bitencourt Pereira |atest|2
+drc|Doris Regina do Carmo |telemkt|1
+cas|Camila Aline da Silva |telemkt|2
+nmo|Natalia Meneses de Oliveira |postoemp|1
+acasp|Ana Carolina da Silva Pereira |telemkt|1
+dqs|Daiane Queiroz da Silva |telemkt|1
+drrc|Debora Regina Rosa De Carvalho |postoemp|1
+rlb|Rodrigo de Lima Bonnano |telemkt|1
+acgs|Ana Carolina Gonzaga e Silva |telemkt|1
+ecst|Elisandra Claudia Santana Toiti |alpha|1
+lpsi|Luciana Pereira Siqueira |telemkt|1
+brc|Bruna Raquel Candido |telemkt|4
+rmae|Roseli Maria de Azevedo |telemkt|1
+jcs|Jeremias Correia da Silva |atest|1
+yan|Yago Alves Nascimento |telemkt|5
+leapr|Leopoldina Aparecida Ramos |telemkt|2
+mpt|Marcio Pinheiro Tsujimoto |telemkt|4
+pg|Pedro Gongora Guerini |telemkt|2
+vrg|Vinicius Rodrigues Garcia |sazon|1
+rmc|Rosangela Mara Colozio |telemkt|1
+ets|Edileuza Terezinha da Silva |telemkt|2
+jaa|Jaissa Alves de Almeida |postoemp|1
+gps|Gildevan Pedro dos Santos |telemkt|2
+vlgd|Vera Lucia Guedes Diniz |postoemp|1
+gvbo|Gabriela Vilas Boas de Oliveira |telemkt|4
+thcl|Thais Helena de Castro Lopes |telemkt|1
+jgn|Jucelina Gomes Nogueira |telemkt|2
+asbr|Alane dos Santos Barreto |telemkt|1
+dfs|Danielle Francisco dos Santos |atest|1
+fans|Fernanda Aparecida Neri da Silva |telemkt|2
+csso|Clodoaldo Soares Silva |telemkt|1
+snn|Stephanie Nunes do Nascimento |atest|1
+thcf|Thamiris Christina Faccin |telemkt|2
+casa|Caroline Ariane da Silva |telemkt|1
+pfcr|Peter Frampton Couto Rodrigues |telemkt|2
+tdp|Renata Daniela de Paula |telemkt|2
+vma|Vanessa da Silva Martins |postoemp|4
+msdpp|Mauricio Santos da Paz Palma |telemkt|2
+jlc|Juliana Lopasso Catrini |postoemp|1
+vpsn|Vanderleia Pereira dos Santos |telemkt|2
+amsa|Andrea Monteiro dos Santos |telemkt|3
+mgs|Melyssa Gomes dos Santos |telemkt|2
+kja|Katia Juliana Alves |telemkt|2
+mssr|Michely Suene Ramos Silveira |sazon|1

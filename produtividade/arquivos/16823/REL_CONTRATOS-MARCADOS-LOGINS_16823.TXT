@@ -1,0 +1,76 @@
+LOGIN|NOME|GRUPO|QTDE.CONTRATO
+prsa|Paulo Roberto de Souza Alves |postoemp|30
+rjsa|Rodrigo Jose Santos |postoemp|20
+acoj|Antonio Carlos de Oliveira Junior |telemkt|2
+rlb|Rodrigo de Lima Bonnano |telemkt|4
+cfg|Crislaine Ferreira Gomes |pesp|1
+aar|Aparecida Araujo Ramos |atest|12
+pop|Patricia de Oliveira Paranha |telemkt|1
+ltsi|Lais Thomaz da Silva |atest|6
+rsca|Rodrigo Sampaio da Costa Aguiar |telemkt|4
+csf|Claudia Silva Figueiredo |atest|9
+eap|Edilson de Araujo Pereira |sazon|4
+drc|Doris Regina do Carmo |telemkt|2
+gmds|Gilberto Marques da Silva |telemkt|1
+bnc|Barbara Nobrega Cosielho |telemkt|4
+spal|Samira Pereira Alves |atest|8
+jfco|Juliana Ferreira da Costa |telemkt|3
+sbmi|Sttela Bastos Miranda |postoemp|5
+vgls|Viviane Gaya Lopes dos Santos |postoemp|4
+tfpe|Tamilyn Furusho Petroni |postoemp|6
+cevf|Celia Vieira Ferreira |telemkt|1
+fss|Fabiana Santos da Silva |postoemp|5
+mam|Michelle Amaral Mendes |postoemp|1
+nc|Nathalia Canatelli |telemkt|3
+eae|Edson Andre Eneas |telemkt|3
+cas|Camila Aline da Silva |telemkt|5
+macar|Mariana Cardoso |postoemp|4
+vma|Vanessa da Silva Martins |postoemp|1
+cdaf|Camila de Araujo Freitas |telemkt|1
+pg|Pedro Gongora Guerini |telemkt|2
+lss|Lalia Suelem de Souza |atest|1
+aad|Andreia Aparecida Duraes |telemkt|1
+acosi|Alvimar Costa Silva |telemkt|1
+lpsi|Luciana Pereira Siqueira |telemkt|5
+fmal|Flavia Matos Alves |postoemp|2
+vmr|Viviane Maria Rocha |atest|2
+msls|Maria do Socorro de L. Sampaio |atest|5
+basl|Bruna Araujo de Sousa Lima |telemkt|2
+acn|Anne Castro Nieto |postoemp|1
+tlp|Thais Lopes Pina |postoie|2
+leapr|Leopoldina Aparecida Ramos |telemkt|2
+kpoc|Kelly Priscila Oliveira Custodio |telemkt|1
+sias|Silvana de Andrade Santos |telemkt|2
+rrl|Renata Rodrigues Lima |telemkt|2
+fnnas|Felipe Norberto Nocera Andrade Souza |telemkt|2
+lrmc|Luiz Rodrigo Moreira de Campos |telemkt|2
+pfcr|Peter Frampton Couto Rodrigues |telemkt|6
+amg|Ana Marcia Giacometti |atest|3
+acgs|Ana Carolina Gonzaga e Silva |telemkt|1
+amsa|Andrea Monteiro dos Santos |telemkt|3
+maju|Meira Abda Justo |telemkt|1
+vaj|Vanessa Alves de Jesus |postoemp|5
+cmth|Caroline Marques Thomaz |postoemp|4
+mgs|Melyssa Gomes dos Santos |telemkt|6
+cobas|Camila Oliveira Borges de Araujo Silva |telemkt|1
+thcl|Thais Helena de Castro Lopes |telemkt|1
+vpsn|Vanderleia Pereira dos Santos |telemkt|4
+csso|Clodoaldo Soares Silva |telemkt|4
+fans|Fernanda Aparecida Neri da Silva |telemkt|3
+amfa|Andrefison Maciel Figueredo de Almeida |postoemp|1
+drrc|Debora Regina Rosa De Carvalho |postoemp|2
+jgn|Jucelina Gomes Nogueira |telemkt|2
+ammo|Any Miyuki Morimitsu |telemkt|4
+tgcs|Thuany Gabriela Candida Santana |telemkt|4
+yan|Yago Alves Nascimento |telemkt|6
+apf|Ana Paula Freire |telemkt|1
+brc|Bruna Raquel Candido |telemkt|4
+casa|Caroline Ariane da Silva |telemkt|3
+thcf|Thamiris Christina Faccin |telemkt|6
+nmo|Natalia Meneses de Oliveira |postoemp|1
+jcs|Jeremias Correia da Silva |atest|1
+lpods|Luciene Pontes de Souza |atest|1
+kja|Katia Juliana Alves |telemkt|1
+mmsf|Marina Morena Soares Fortunato |telemkt|2
+ets|Edileuza Terezinha da Silva |telemkt|1
+rmae|Roseli Maria de Azevedo |telemkt|1

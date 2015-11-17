@@ -1,0 +1,85 @@
+LOGIN|NOME|GRUPO|QTDE.CONTRATO
+rjsa|Rodrigo Jose Santos |postoemp|20
+cqsm|Camila Queiroz de Souza Moraes |telemkt|5
+pop|Patricia de Oliveira Paranha |telemkt|6
+aar|Aparecida Araujo Ramos |atest|10
+vma|Vanessa da Silva Martins |postoemp|3
+vgls|Viviane Gaya Lopes dos Santos |postoemp|3
+bnc|Barbara Nobrega Cosielho |telemkt|3
+rfa|Rosemeire Ferreira Abrantes |telemkt|3
+jmol|Janeffer Mariana de Oliva |telemkt|5
+mam|Michelle Amaral Mendes |postoemp|3
+dd|Daniel Duarte |telemkt|2
+kpoc|Kelly Priscila Oliveira Custodio |telemkt|2
+vaj|Vanessa Alves de Jesus |postoemp|9
+csf|Claudia Silva Figueiredo |atest|12
+nc|Nathalia Canatelli |telemkt|5
+aasb|Alessandra Andrade Silva de Brito |telemkt|1
+krv|Kamila Rosani Vichiato |telemkt|2
+prsa|Paulo Roberto de Souza Alves |postoemp|16
+acol|Aliteia Cristina de Oliveira |telemkt|1
+kja|Katia Juliana Alves |telemkt|2
+nmo|Natalia Meneses de Oliveira |postoemp|1
+rlb|Rodrigo de Lima Bonnano |telemkt|2
+masz|Maria Aparecida da Silva Zolli |sazon|1
+sias|Silvana de Andrade Santos |telemkt|2
+snn|Stephanie Nunes do Nascimento |atest|8
+fmal|Flavia Matos Alves |postoemp|2
+csso|Clodoaldo Soares Silva |telemkt|5
+tcm|Thayne Carvalho de Moura |atest|5
+rfg|Rodrigo Ferreira Gomes |telemkt|3
+dqs|Daiane Queiroz da Silva |telemkt|2
+jaa|Jaissa Alves de Almeida |postoemp|1
+jgr|Jaqueline Guedes Rosa |postoemp|6
+basl|Bruna Araujo de Sousa Lima |telemkt|2
+acosi|Alvimar Costa Silva |telemkt|1
+aczrc|Ana Caroina Zanon Rodrigues Costa |postoemp|2
+spal|Samira Pereira Alves |atest|14
+aad|Andreia Aparecida Duraes |telemkt|3
+jods|Josilene da Silva |pesp|1
+cmth|Caroline Marques Thomaz |postoemp|2
+tlp|Thais Lopes Pina |postoie|1
+macar|Mariana Cardoso |postoemp|1
+maju|Meira Abda Justo |telemkt|3
+eae|Edson Andre Eneas |telemkt|1
+sbmi|Sttela Bastos Miranda |postoemp|5
+amg|Ana Marcia Giacometti |atest|2
+pfcr|Peter Frampton Couto Rodrigues |telemkt|6
+thcf|Thamiris Christina Faccin |telemkt|5
+leapr|Leopoldina Aparecida Ramos |telemkt|2
+pg|Pedro Gongora Guerini |telemkt|2
+vlgd|Vera Lucia Guedes Diniz |postoemp|1
+vrg|Vinicius Rodrigues Garcia |sazon|1
+tdp|Renata Daniela de Paula |telemkt|9
+apls|Andressa Pamela da Luz Seara |telemkt|2
+lssco|Layla Suanny Silva Costa |atest|2
+gvbo|Gabriela Vilas Boas de Oliveira |telemkt|5
+tfpe|Tamilyn Furusho Petroni |postoemp|4
+cobas|Camila Oliveira Borges de Araujo Silva |telemkt|2
+drrc|Debora Regina Rosa De Carvalho |postoemp|1
+casa|Caroline Ariane da Silva |telemkt|4
+ltsi|Lais Thomaz da Silva |atest|1
+rmc|Rosangela Mara Colozio |telemkt|1
+lfg|Luis Felipe Gaspari |telemkt|5
+apf|Ana Paula Freire |telemkt|1
+lss|Lalia Suelem de Souza |atest|1
+fans|Fernanda Aparecida Neri da Silva |telemkt|5
+asj|Ailton dos Santos Junior |telemkt|1
+msls|Maria do Socorro de L. Sampaio |atest|1
+fss|Fabiana Santos da Silva |postoemp|2
+ets|Edileuza Terezinha da Silva |telemkt|2
+yan|Yago Alves Nascimento |telemkt|4
+rmae|Roseli Maria de Azevedo |telemkt|1
+fnnas|Felipe Norberto Nocera Andrade Souza |telemkt|1
+msdpp|Mauricio Santos da Paz Palma |telemkt|1
+vpsn|Vanderleia Pereira dos Santos |telemkt|2
+hlbr|Hugo Leonardo de Barros Reck |postoemp|1
+gbp|Gabriel Bitencourt Pereira |atest|1
+ammo|Any Miyuki Morimitsu |telemkt|2
+amsa|Andrea Monteiro dos Santos |telemkt|3
+brc|Bruna Raquel Candido |telemkt|3
+mpt|Marcio Pinheiro Tsujimoto |telemkt|1
+vmr|Viviane Maria Rocha |atest|2
+gps|Gildevan Pedro dos Santos |telemkt|1
+mmsf|Marina Morena Soares Fortunato |telemkt|1
+jgn|Jucelina Gomes Nogueira |telemkt|1
