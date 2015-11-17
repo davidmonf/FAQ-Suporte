@@ -30,8 +30,14 @@
 body {
  	font-family:calibri,arial;
 	/**background: #606060 url("imagens/fundo.jpg") fixed;*/
+	background-color:#99c2ff;
 	}
 
+.conteudo
+{
+	background-color:#ffffff;
+}		
+	
 path_pg{
 	font-family:Verdana, Geneva, sans-serif;
 	font-size:7pt;
@@ -106,7 +112,7 @@ text-decoration:underline;
 .topo {
   width:800;
 	text-align:center;
-	background-color:#000000;
+	/**background-color:#000000;**/
 	border: solid 1px #666;
 	}
 

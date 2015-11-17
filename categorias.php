@@ -2,7 +2,7 @@
 			 include("conexao.php");
 			 $sql_categorias = "SELECT * FROM categorias ORDER BY CATEG"; 
 			 $result = mysql_query($sql_categorias, $conecta_banco) or print(mysql_error());  
-				echo "<table border=0 width=640>";
+				echo "<table border=0 width=1024>";
 				echo "<tr>";
 				while ($resultado = mysql_fetch_assoc($result)) {
 				$categoria = $resultado['CATEG'];

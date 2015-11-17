@@ -15,7 +15,7 @@
 <tr><td><?php include("busca_suporte.php")?></td></tr>
 <tr><td><?php include("categorias_suporte.php")?></td></tr>
 <tr><td><a href = "javascript:history.back()">  Voltar  </a></tr></td>
-<tr><td align="center" width=630>
+<tr><td align="center" width=1024>
 <div style="text-align: left;">
 	<?php include ("conexao.php");
 		protegePagina(); // Chama a função que protege a página
@@ -39,7 +39,7 @@
 			$aprovado = $resultado['APROVADO'];
 			if ($categoria != "Processos")
 			{
-				echo ("<h2>$titulo</h2>");
+				echo ("<h2 align=center>$titulo</h2>");
 				echo ("<h3>Problema:</h3>");
 				echo ("<p>$problema</p>");
 				echo ("<h3>Ambiente:</h3>");

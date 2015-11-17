@@ -1,4 +1,4 @@
-<table cellspacing="0" cellpadding="0" bordercolor="#000000" border="0" align="center" width="630">
+<table cellspacing="0" cellpadding="0" bordercolor="#000000" border="0" align="center" width="1024">
 <tr>
 <td width="25" valign="bottom" bgcolor="#00008b" align="left" style="height: 20px;">
 			<img id="Image2" border="0" src="imagens/lowBorderLeft1.gif" style="vertical-align: bottom;"></img>

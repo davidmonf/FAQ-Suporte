@@ -3,7 +3,7 @@
 			 $count_linha = 0;
 			 $sql_categorias = "SELECT * FROM categorias_suporte ORDER BY CATEG"; 
 			 $result = mysql_query($sql_categorias, $conecta_banco) or print(mysql_error());  
-				echo "<table border=0 width=640>";
+				echo "<table border=0 width=1024>";
 				echo "<tr>";
 				while ($resultado = mysql_fetch_assoc($result)) {
 				$categoria = $resultado['CATEG'];
@@ -11,7 +11,7 @@
 				$link = 'buscar_categorias_suporte.php?categoria=' . $resultado['CATEG'];
 				$desc_categ = $resultado['DESC_CATEG'];
 				$count_linha = $count_linha+1;
-				if ($count_linha > 4)
+				if ($count_linha > 8)
 				{
 					echo "</tr><tr align='center'>";
 					$count_linha = 1;

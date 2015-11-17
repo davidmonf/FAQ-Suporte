@@ -15,7 +15,7 @@ echo ('<div style="position: relative; top: 55px; right: 10px; height: 0px;"><h6
 </tr>
 <tr>
 <td>
-<table cellspacing="0" cellpadding="0" bordercolor="#000000" border="0" align="center" width="800">
+<table cellspacing="0" cellpadding="0" bordercolor="#000000" border="0" align="center" width="1024">
 <tr>
 <td width="25" valign="top" bgcolor="#00008b" align="left" style="height: 10px">
 			<img id="Image2" border="0" src="imagens/repBorderLeft1.gif"></img>

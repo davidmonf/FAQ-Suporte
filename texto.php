@@ -10,12 +10,12 @@
   <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
 </head>
 <body>
-<table width="600" align="center" border=0 class="conteudo">
+<table width="1024" align="center" border=0 class="conteudo">
 <tr><td><?php include("topo.php")?></td></tr>
 <tr><td><?php include("busca.php")?></td></tr>
 <tr><td><?php include("categorias.php")?></td></tr>
 <tr><td><a href = "javascript:history.back()">  Voltar  </a></tr></td>
-<tr><td align="center" width=630>
+<tr><td align="center" width=1024>
 <div style="text-align: left;">
 	<?php include ("conexao.php");
 		$busca = $_GET['id'];

@@ -51,11 +51,11 @@ theme_advanced_buttons1:
 <!-- /TinyMCE -->
 </head>
 <body onload="Mudarestado()">
-<table width="600" align="center">
+<table width="1024" align="center">
 <tr><td><?php include("topo_editor.php")?></td></tr>
 <tr><td><?php // include("busca_suporte.php")?></td></tr>
 <tr><td><?php  // include("categorias_suporte.php")?></td></tr>
-<tr><td width="800">
+<tr><td width="1024">
 <?php
 	protegePagina(); // Chama a função que protege a página
 	include("conexao.php");

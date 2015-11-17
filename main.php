@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
 </head>
 <body>
-	<table width="600" align="center">
+	<table width="600" align="center" border=1 class="conteudo">
 		<tr><td colspan=2><?php include("topo.php")?></td></tr>
 		<tr><td colspan=2><?php include("busca.php")?></td></tr>
 		<tr><td colspan=2><?php include("categorias.php")?></td></tr>
@@ -14,7 +14,7 @@
 	     <?php 
 			 $sql_top10 = "SELECT * FROM $tbl_name WHERE APROVADO <> '0' ORDER BY COUNT DESC LIMIT 10"; 			 
 			 $result = mysql_query($sql_top10, $conecta_banco) or print(mysql_error());  
-				echo "<td width=300>";
+				echo "<td width=500>";
 				echo "<table>";
 				echo "<tr><td><h3>Tópicos Mais visitados</h3></td></tr>";
 				while ($resultado = mysql_fetch_assoc($result)) 
@@ -26,7 +26,7 @@
 			echo "</table></td>";
 			mysql_close($conecta_banco);
 		?>
-		<td width=300 style="text-align: justify;">
+		<td width=500 align=right style="text-align: justify;">
 			<b>Como utilizar a Central de Ajuda?</b>
 			<p>Procure a ajuda que necessita na barra de categorias, na caixa de busca acima ou ainda verifique se a ajuda que precisa está ao lado nos tópicos mais visitados.</p>
 			<p>É importante verificar se o seu problema já está disponível aqui, pois assim ele será solucionado mais rapidamente.</p>

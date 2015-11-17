@@ -1,9 +1,15 @@
 
 body {
  	font-family:helvetica,tahoma,arial;
+	background-color:#99c2ff;
 	/**background: #606060 url("imagens/fundo.jpg") fixed;*/
 	}
 
+.conteudo
+{
+	background-color:#ffffff;
+}	
+	
 path_pg{
 	font-family:Verdana, Geneva, sans-serif;
 	font-size:7pt;
