@@ -8,14 +8,13 @@
   <link rel="stylesheet" type="text/css" href="lol.css" media="screen"/>
   <link rel="icon" type="image/png" href="null" />
   <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
+  <script src="css_browser_selector.js" type="text/javascript"></script>
 </head>
 <body>
-<table width="600" align="center" border=0 class="conteudo">
-<tr><td><?php include("topo.php")?></td></tr>
-<tr><td><?php include("busca_suporte.php")?></td></tr>
-<tr><td><?php include("categorias_suporte.php")?></td></tr>
-<tr><td><a href = "javascript:history.back()">  Voltar  </a></tr></td>
-<tr><td align="center" width=1024>
+	<table align="center"class="conteudo">
+	<?php include("topo_completo_sup.php")?>
+<tr><td class=espacos><a href = "javascript:history.back()">  Voltar  </a></tr></td>
+<tr><td align="center" width=1024 class=espacos>
 <div style="text-align: left;">
 	<?php include ("conexao.php");
 		protegePagina(); // Chama a função que protege a página
@@ -123,7 +122,7 @@
  <?php
  if ($_SESSION['usuarioTipo'] == 'MASTER')
  {
-	echo ('<tr><td><a href="cadastro_suporte.php?id='.$_GET['id'].'">Alterar essa p&aacute;gina</a></td></tr>');
+	echo ('<tr><td class=espacos><a href="cadastro_suporte.php?id='.$_GET['id'].'">Alterar essa p&aacute;gina</a></td></tr>');
 }
 ?>
  <tr><td><?php include("baixo.php") ?></td></tr>

@@ -1,10 +1,10 @@
 <html>
 <head>
 <title>CIEE :: Central de Ajuda</title>
-<link rel="stylesheet" type="text/css" href="estilo.css" />
+<!-- <link rel="stylesheet" type="text/css" href="estilo.css" /> -->
   <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
 </head>
-<body a>
+<body>
 <form method="post" action="valida.php" >
 <table id="Table2" width="300" cellspacing="0" cellpadding="0" bordercolor="#000000" border="0" align="center">
 <tbody>

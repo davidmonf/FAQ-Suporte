@@ -4,14 +4,13 @@
   <link rel="stylesheet" type="text/css" href="lol.css" />
   <link rel="icon" type="image/png" href="null" />
   <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
+    <script src="css_browser_selector.js" type="text/javascript"></script>
 </head>
 <body>
-<table width="600" align="center">
-<tr><td><?php include("topo.php")?></td></tr>
-<tr><td><?php include("busca_suporte.php")?></td></tr>
-<tr><td><?php include("categorias_suporte.php")?></td></tr>
-<tr><td><a href = "javascript:history.back()">  Voltar  </a></tr></td>
-<tr><td width="800">
+	<table align="center"class="conteudo">
+	<?php include("topo_completo_sup.php")?>
+<tr><td class=espacos><a href = "javascript:history.back()">  Voltar  </a></tr></td>
+<tr><td width="1024" align=center>
 <?php
 	protegePagina(); // Chama a função que protege a página
 	include("conexao.php");
@@ -19,7 +18,7 @@
 	$busca = mysql_real_escape_string($busca);
 	$sql = "SELECT * FROM topicos_suporte WHERE CATEG='$busca' AND APROVADO <> '0' ORDER BY TITULO ASC";
 	$result = mysql_query($sql, $conecta_banco) or print(mysql_error());
-	echo "<div class='ajudas'>";
+	//echo "<div class='ajudas'>";
 	echo "<h3 align='center'>Categoria $busca</h3>";
 	echo "<table align='center'>";
 	while ($resultado = mysql_fetch_assoc($result)) {
@@ -30,7 +29,7 @@
 		echo '</tr>';
 	}
 	echo "</table>";
-	echo "</div>";
+	//echo "</div>";
 	echo '<a href="sugestao.php" title="Sugerir um tópico" class="lnk_menu">Sugerir um tópico</a>';
 	mysql_close($conecta_banco);
 ?>

@@ -1,12 +1,13 @@
 <html>
 <head profile="http://www.w3.org/2005/10/profile">
   <title>CIEE :: Central de Ajuda</title>
-  <link rel="stylesheet" type="text/css" href="lol.css" />
+  <link rel="stylesheet" type="text/css" href="lol.css" />  
   <link rel="icon" type="image/png" href="favicon.png" />
   <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
+  <script src="css_browser_selector.js" type="text/javascript"></script>
 </head>
 <body>
-	<table align="center"class="conteudo" style="background-image: url(/imagens/miolo_suporte.jpg); background-repeat: repeat-y; width: 1024px; border-collapse: collapse;">
+	<table align="center"class="conteudo">
 	<?php include("topo_completo.php")?>
 		<tr>
 	     <?php 
@@ -33,7 +34,7 @@
 			<p>Você pode também <a href='sugestao.php' class="lnk">sugerir um tópico</a> para podermos criar o conteúdo e ajudar ainda mais os colaboradores do CIEE!</p><br>
 		</td>
 		</tr>
-		<tr><td colspan=2 height=244 background="imagens/baixo_suporte.jpg" style="background-repeat:no-repeat;"><div><h4>Clique <a href="http://sistemaru.cieesp.org.br/servicedesk/Login_rsu.asp" target="_blank" class="lnk">aqui</a> para abrir um chamado no Suporte</h4></div></td></tr>
+		<?php include("baixo.php")?>
 	</table>
 </body>
 </html>

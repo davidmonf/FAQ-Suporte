@@ -4,19 +4,18 @@
   <link rel="stylesheet" type="text/css" href="lol.css" />
   <link rel="icon" type="image/png" href="favicon.png" />
   <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
+  <script src="css_browser_selector.js" type="text/javascript"></script>
 </head>
 <body>
-	<table width="1024" align="center">
-		<tr><td colspan=2><?php include("topo.php")?></td></tr>
-		<tr><td colspan=2><?php include("busca_suporte.php")?></td></tr>
-		<tr><td colspan=2><?php include("categorias_suporte.php")?></td></tr>
+	<table align="center"class="conteudo">
+	<?php include("topo_completo_sup.php")?>
 		<tr>
 	     <?php
 			protegePagina(); // Chama a função que protege a página
 			 $sql_top10 = "SELECT * FROM topicos_suporte WHERE APROVADO <> '0' ORDER BY COUNT DESC LIMIT 10"; 			 
 			 $result = mysql_query($sql_top10, $conecta_banco) or print(mysql_error());  
-				echo "<td width=500 align=center>";
-				echo "<table>";
+				echo "<td width=500 class=espacos>";
+				echo "<table border=0>";
 				echo "<tr><td align=center><h3>Tópicos Mais visitados</h3></td></tr>";
 				while ($resultado = mysql_fetch_assoc($result)) 
 				{
@@ -28,7 +27,7 @@
 			echo "</table></td>";			
 			 $sql_top_users = "SELECT CRIADOR, COUNT(*) FROM topicos_suporte WHERE APROVADO <> '0' GROUP BY CRIADOR ORDER BY COUNT(*) DESC LIMIT 5"; 			 
 			 $result_users = mysql_query($sql_top_users, $conecta_banco) or print(mysql_error()); 
-				echo "<td width=500 valign='top' align=center>";
+				echo "<td width=500 valign='top' align=center class=espacos>";
 				echo "<table>";
 				echo "<tr><td align=center><h3>Usuários com mais tópicos criados</h3></td></tr>";
 				while ($resultado = mysql_fetch_assoc($result_users)) 
