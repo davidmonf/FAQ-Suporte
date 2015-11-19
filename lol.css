@@ -29,13 +29,21 @@
 
 body {
  	font-family:calibri,arial;
-	/**background: #606060 url("imagens/fundo.jpg") fixed;*/
-	background-color:#99c2ff;
+	/*background: #606060 url("imagens/fundo.jpg") fixed;*/
+	background-color:#1b305d;
 	}
 
 .conteudo
 {
 	background-color:#ffffff;
+	background-image: url(\imagens\miolo_suporte.jpg);
+	background-repeat: repeat-y;
+}
+
+.espacos
+{
+	padding-left: 50px;
+	padding-right: 50px; 
 }		
 	
 path_pg{
@@ -89,12 +97,14 @@ a:hover.lnk_menu {
 	}
 
 .lnk_topo{
- 	color:#ffffff;
+	font-size:30px;
+ 	color:#1b305d;
  	text-decoration:none;
 	text-align:center;
 	}
 	
 .lnk_topo_suporte{
+	font-size:30px;
  	color:#c1c1c1;
  	text-decoration:none;
 	text-align:center;
