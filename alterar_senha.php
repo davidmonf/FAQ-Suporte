@@ -1,7 +1,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=latin1_bin" />
-<link rel="stylesheet" type="text/css" href="lol.css" />
+<link rel="stylesheet" type="text/css" href="lol.css?v=1.1" />
 <link rel="icon" type="image/png" href="null" />
 <title>CIEE :: Central de Ajuda</title>
 <script>
@@ -48,7 +48,6 @@ function valida_senha(c)
 			include("conexao.php");
 			$novasenha = md5($_POST['novasenha']);
 			$md5alterar = $_POST['md5alterar'];
-			//echo "<script>alert('".$md5alterar."');</script>";
 			$sql = "UPDATE usuarios SET senha='$novasenha',ALTERAR='0',MD5ALTERAR=NULL WHERE MD5ALTERAR='$md5alterar'";
 			$result = mysql_query($sql, $conecta_banco) or print(mysql_error());
 			echo "<script>alert('Senha alterada com sucesso!');</script>";

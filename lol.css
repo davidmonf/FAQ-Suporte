@@ -29,9 +29,118 @@
 
 body {
  	font-family:calibri,arial;
-	/**background: #606060 url("imagens/fundo.jpg") fixed;*/
+	background-color:#1b305d;
 	}
 
+.win.gecko .linkrestrito_logado
+{	
+	position: relative; 
+	top: -80px; 
+	right: 60px; 
+	height: 0px;	
+}	
+	
+.linkrestrito_logado
+{	
+	position: relative; 
+	top: -25px; 
+	right: 60px; 
+	height: 0px;	
+}	
+.win.gecko .linkrestrito
+{
+	position: relative; 
+	top: -80px; 
+	right: 80px; 
+	height: 0px;
+}		
+	
+.linkrestrito
+{
+	position: relative; 
+	top: -25px; 
+	right: 80px; 
+	height: 0px;
+}	
+	
+.win.gecko .linktopo /*Para Firefox*/
+{
+	position: relative;
+	top: 45px; 
+	left: 370px; 
+	height: 0px;
+	width: 400px;
+
+}	
+
+.win.gecko .linktopo_logado /*Para Firefox*/
+{
+	position: relative;
+	top: 40px; 
+	left: 370px; 
+	height: 0px;
+	width: 600px;
+
+}	
+
+.linktopo_logado
+{	
+	position: relative;
+	top: 70px; 
+	left: 370px; 
+	height: 0px;
+}
+
+.linktopo
+{	
+	position: relative;
+	top: 70px; 
+	left: 370px; 
+	height: 0px;
+}
+
+.win.gecko .pendentes
+{
+	position: relative; 
+	top: 215px; 
+	left: 520px; 
+	height: 0px;
+	width: 600px;
+
+}
+
+.pendentes
+{
+	position: relative; 
+	top: 240px; 
+	left: 370px; 
+	height: 0px;
+}
+
+.win.gecko .conteudo /*Para Firefox*/
+{
+	background-color:#1b305d;
+	background-image: url(imagens/miolo_suporte.jpg);
+	background-repeat: repeat-y;
+	width: 1024px;
+	border-collapse: collapse;
+}	
+	
+.conteudo
+{
+	background-color:#ffffff;
+	background-image: url(imagens/miolo_suporte.jpg);
+	background-repeat: repeat-y;
+	width: 1024px;
+	border-collapse: collapse;
+}
+
+.espacos
+{
+	padding-left: 60px;
+	padding-right: 60px; 
+}		
+	
 path_pg{
 	font-family:Verdana, Geneva, sans-serif;
 	font-size:7pt;
@@ -83,13 +192,15 @@ a:hover.lnk_menu {
 	}
 
 .lnk_topo{
- 	color:#ffffff;
+	font-size:30px;
+ 	color:#1b305d;
  	text-decoration:none;
 	text-align:center;
 	}
 	
 .lnk_topo_suporte{
- 	color:#c1c1c1;
+	font-size:30px;
+ 	color:#900000;
  	text-decoration:none;
 	text-align:center;
 	}	
@@ -106,16 +217,40 @@ text-decoration:underline;
 .topo {
   width:800;
 	text-align:center;
-	background-color:#000000;
+	/**background-color:#000000;**/
 	border: solid 1px #666;
 	}
 
-.baixo {
-  font-size:11px;
-	width:780;
+	
+.win.gecko .baixo {
+	position: relative; 
+	top: -80px; 
+	left: 250px; 
+	height: 50px;
+	font-size:15px;
+	width:500;
 	text-align:center;
 	font-style:italic;
-	background-color:#900000;
+	background-color:#1b305d;
+	color:#ffffff;
+	padding-top:7px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:7px;
+	border:solid 1px #000000;
+	valign:top;
+}	
+	
+.baixo {
+	position: relative; 
+	top: -80px; 
+	left: 260px; 
+	height: 0px;
+	font-size:11px;
+	width:500;
+	text-align:center;
+	font-style:italic;
+	background-color:#1b305d;
 	color:#ffffff;
 	padding-top:7px;
 	padding-left:10px;

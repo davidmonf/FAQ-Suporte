@@ -5,17 +5,16 @@
   <script type="text/javascript" src="js/prototype.js"></script>
   <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
   <script type="text/javascript" src="js/lightbox.js"></script>
-  <link rel="stylesheet" type="text/css" href="lol.css" media="screen"/>
+  <link rel="stylesheet" type="text/css" href="lol.css?v=1.1" media="screen"/>
   <link rel="icon" type="image/png" href="null" />
   <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
+  <script src="css_browser_selector.js" type="text/javascript"></script>
 </head>
 <body>
-<table width="600" align="center" border=0 class="conteudo">
-<tr><td><?php include("topo.php")?></td></tr>
-<tr><td><?php include("busca.php")?></td></tr>
-<tr><td><?php include("categorias.php")?></td></tr>
-<tr><td><a href = "javascript:history.back()">  Voltar  </a></tr></td>
-<tr><td align="center" width=630>
+<table align="center"class="conteudo" style="background-image: url(/imagens/miolo_suporte.jpg); background-repeat: repeat-y; width: 1024px; border-collapse: collapse;">
+<?php include("topo_completo.php")?>
+<tr><td class=espacos><a href = "javascript:history.back()">  Voltar  </a></tr></td>
+<tr><td align="center" width=1024 class=espacos>
 <div style="text-align: left;">
 	<?php include ("conexao.php");
 		$busca = $_GET['id'];
@@ -88,9 +87,9 @@
 			}
 		echo "</div></td></tr>";
 if (isset($_SESSION['usuarioID'])){
-	echo ('<tr><td><a href="cadastro.php?id='.$_GET['id'].'">Alterar essa p&aacute;gina</a></td></tr>');
+	echo ('<tr><td class=espacos><a href="cadastro.php?id='.$_GET['id'].'">Alterar essa p&aacute;gina</a></td></tr>');
 }
-	echo ('<tr><td><a href="sugestao.php?id='.$_GET['id'].'">Reportar erro na p&aacutegina</a></td></tr>');
+	echo ('<tr><td class=espacos><a href="sugestao.php?id='.$_GET['id'].'">Reportar erro na p&aacutegina</a></td></tr>');
 ?>
  <tr><td><?php include("baixo.php") ?></td></tr>
  </table>

@@ -5,18 +5,17 @@
   <script type="text/javascript" src="js/prototype.js"></script>
   <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
   <script type="text/javascript" src="js/lightbox.js"></script>
-  <link rel="stylesheet" type="text/css" href="lol.css" media="screen"/>
+  <link rel="stylesheet" type="text/css" href="lol.css?v=1.1" media="screen"/>
   <link rel="icon" type="image/png" href="null" />
   <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
+  <script src="css_browser_selector.js" type="text/javascript"></script>
 </head>
 <body onload="form1.data_inicial.focus()">
-<table width="600" align="center" border=0 class="conteudo">
-<tr><td><?php include("topo.php")?></td></tr>
-<tr><td><?php include("busca.php")?></td></tr>
-<tr><td><?php include("categorias.php")?></td></tr>
-<tr><td><a href = "javascript:history.back()">  Voltar  </a></tr></td>
-<tr><td align="center" width=630>
-<div style="text-align: left;">
+	<table align="center"class="conteudo" border=0>
+	<?php include("topo_completo.php")?>
+<tr><td class=espacos><a href = "javascript:history.back()">  Voltar  </a></tr></td>
+<tr><td align="center">
+<div style="text-align: left;" class=espacos>
 <?php 
 	protegePagina(); // Chama a função que protege a página
 	include ("form_contribuintes_base.php");
@@ -68,7 +67,7 @@
 	{
 			 $sql_top_users = "SELECT CRIADOR, COUNT(*) FROM topicos_suporte WHERE APROVADO <> '0' AND CRIADOR <> '' GROUP BY CRIADOR ORDER BY COUNT(*) DESC"; 			 
 			 $result_users = mysql_query($sql_top_users, $conecta_banco) or print(mysql_error()); 
-				echo "<tr><td width=600";
+				echo "<tr><td>";
 				echo "<table align=center border=0>";
 				echo "<tr><td align=center><b>Usu&aacuterios com mais t&oacutepicos criados de todos os tempos</b></td></tr>";
 				while ($resultado = mysql_fetch_assoc($result_users)) 

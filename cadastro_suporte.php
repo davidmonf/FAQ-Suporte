@@ -1,14 +1,17 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=latin1_bin" />
-<link rel="stylesheet" type="text/css" href="lol.css" />
-<link rel="icon" type="image/png" href="null" />
 <title>CIEE :: Central de Ajuda</title>
-<!-- TinyMCE -->
+  <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script> 
+  <script type="text/javascript" src="js/prototype.js"></script>
+  <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+  <script type="text/javascript" src="js/lightbox.js"></script>
+  <link rel="stylesheet" type="text/css" href="lol.css?v=1.1" media="screen"/>
+  <link rel="icon" type="image/png" href="null" />
+  <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
+  <script src="css_browser_selector.js" type="text/javascript"></script>
+  <!-- TinyMCE -->
 <script type="text/javascript" src="tinymce_pt/jscripts/tiny_mce/tiny_mce.js"></script>
-<script type="text/javascript"
-   src="tinymce_pt/jscripts/tiny_mce/plugins/tinybrowser/tb_tinymce.js.php"></script>
+<script type="text/javascript"src="tinymce_pt/jscripts/tiny_mce/plugins/tinybrowser/tb_tinymce.js.php"></script>
 <script type="text/javascript">
 	tinyMCE.init({
 		// General options
@@ -19,10 +22,10 @@
 
 		// Theme options
 theme_advanced_buttons1:
-"code,bold,italic,underline,strikethrough,bullist,numlist,justifyleft,justifycenter,justifyright,justifyfull,cleanup,link,unlink,image,table,formatselect,fontsizeselect,forecolor,backcolor,fullscreen",
+"code,bold,italic,underline,strikethrough,,bullist,numlist,justifyleft,justifycenter,justifyright,justifyfull,cleanup,link,unlink,image,table,formatselect,fontsizeselect,forecolor,backcolor,fullscreen",
 
 		// Theme options
-		theme_advanced_buttons2 : "",//"cut,copy,paste,pastetext,pasteword,|,search,replace,|,bullist,numlist,|,outdent,indent,blockquote,|,undo,redo,|,link,unlink,anchor,image,cleanup,help,code,|,insertdate,inserttime,preview,|,forecolor,backcolor",
+		theme_advanced_buttons2 : "",
 		theme_advanced_buttons3 : "",
 		theme_advanced_buttons4 : "",
 
@@ -51,11 +54,9 @@ theme_advanced_buttons1:
 <!-- /TinyMCE -->
 </head>
 <body onload="Mudarestado()">
-<table width="600" align="center">
-<tr><td><?php include("topo_editor.php")?></td></tr>
-<tr><td><?php // include("busca_suporte.php")?></td></tr>
-<tr><td><?php  // include("categorias_suporte.php")?></td></tr>
-<tr><td width="800">
+	<table align="center"class="conteudo" style="background-image: url(/imagens/miolo_suporte.jpg); background-repeat: repeat-y; width: 1024px; border-collapse: collapse;">
+	<?php include("topo_completo_sup.php")?>
+<tr><td class=espacos>
 <?php
 	protegePagina(); // Chama a função que protege a página
 	include("conexao.php");
@@ -127,6 +128,7 @@ theme_advanced_buttons1:
 ?>
  </td>
  </tr>
+ <?php include("baixo.php")?>
  </table>
 </body>
 </html>

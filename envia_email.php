@@ -17,7 +17,7 @@ $mail->Host = "mail2.cieesp.org.br"; // Endereço do servidor SMTP
 // Define o remetente
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 $mail->From = "relacionamento.usuario@cieesp.org.br"; // Seu e-mail
-$mail->FromName = "Suporte - Central de Ajuda"; // Seu nome
+$mail->FromName = "Suporte - Central de Ajuda Homologação"; // Seu nome
  
 // Define os destinatário(s)
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

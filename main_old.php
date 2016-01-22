@@ -1,7 +1,7 @@
 <html>
 <head profile="http://www.w3.org/2005/10/profile">
   <title>CIEE :: Central de Ajuda</title>
-  <link rel="stylesheet" type="text/css" href="lol.css" />
+  <link rel="stylesheet" type="text/css" href="lol.css?v=1.1" />
   <link rel="icon" type="image/png" href="favicon.png" />
   <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
   <style>

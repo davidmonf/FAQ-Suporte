@@ -27,11 +27,11 @@ $mail->Host = "mail2.cieesp.org.br"; // Endereço do servidor SMTP
 // Define o remetente
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 $mail->From = "suporte@ciee.org.br"; // Seu e-mail
-$mail->FromName = "Suporte - Central de Ajuda"; // Seu nome
+$mail->FromName = "Suporte - Central de Ajuda Homologação"; // Seu nome
  
 // Define os destinatário(s)
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-$mail->AddAddress('suporte@ciee.org.br', '');
+$mail->AddAddress('david_filho@cieesp.org.br', '');
 //$mail->AddCC('ciclano@site.net', 'Ciclano'); // Copia
 //$mail->AddBCC('fulano@dominio.com.br', 'Fulano da Silva'); // Cópia Oculta
  
@@ -52,7 +52,7 @@ $mail->CharSet = 'iso-8859-1'; // Charset da mensagem (opcional)
 //}
 
 //if (isset($_GET['id'])){
-$mail->Subject = 'Novo artigo na Base de Conhecimento - Suporte';
+$mail->Subject = 'Novo artigo na Base de Conhecimento - Suporte Homologação';
 //}
 //else
 //{

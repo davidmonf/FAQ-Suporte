@@ -1,15 +1,12 @@
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<meta http-equiv="Content-Type" content="text/html; charset=latin1_bin" />
+<link rel="stylesheet" type="text/css" href="lol.css?v=1.1" />
+<link rel="icon" type="image/png" href="null" />
 <title>CIEE :: Central de Ajuda</title>
-  <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script> 
-  <script type="text/javascript" src="js/prototype.js"></script>
-  <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
-  <script type="text/javascript" src="js/lightbox.js"></script>
-  <link rel="stylesheet" type="text/css" href="lol.css?v=1.1" media="screen"/>
-  <link rel="icon" type="image/png" href="null" />
-  <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
-  <script src="css_browser_selector.js" type="text/javascript"></script>
-  <!-- TinyMCE -->
+<script src="css_browser_selector.js" type="text/javascript"></script>
+<!-- TinyMCE -->
 <script type="text/javascript" src="tinymce_pt/jscripts/tiny_mce/tiny_mce.js"></script>
 <script type="text/javascript"src="tinymce_pt/jscripts/tiny_mce/plugins/tinybrowser/tb_tinymce.js.php"></script>
 <script type="text/javascript">
@@ -54,13 +51,12 @@ theme_advanced_buttons1:
 <!-- /TinyMCE -->
 </head>
 <body>
-<table align="center"class="conteudo" style="background-image: url(/imagens/miolo_suporte.jpg); background-repeat: repeat-y; width: 1024px; border-collapse: collapse;">
-<?php include("topo_completo.php")?>
-<tr><td class=espacos><a href = "javascript:history.back()">  Voltar  </a></tr></td>
-<tr><td align="center" width=1024 class=espacos>
+	<table border=0 align="center"class="conteudo">
+	<?php include("topo_completo.php")?>
+<tr><td align=center>
 <?php
-	protegePagina(); // Chama a funÃ§Ã£o que protege a pÃ¡gina
-	include("conexao.php"); 
+	protegePagina(); // Chama a função que protege a página
+	include("conexao.php");
 	if ((!isset($_GET['id'])) && (!isset($_POST['id'])))
 	{
 		include ("form_cadastro_branco.php");
@@ -77,7 +73,7 @@ theme_advanced_buttons1:
 			include ("email_artigo_central.php");
 			echo ("<script>alert('Dados inseridos com sucesso');window.location = 'main.php'</script>");
 		}
-	}
+	} 
 	elseif (!isset($_POST['titulo'])) 
 	{
 		$busca = $_GET['id'];
@@ -104,10 +100,10 @@ theme_advanced_buttons1:
 		$result = mysql_query($sql, $conecta_banco) or print(mysql_error());
 		echo ("<script>alert('Dados atualizados com sucesso');window.location = 'texto.php?id=$id'</script>");
 	}
-	?>
- <tr><td><?php include("baixo.php") ?></td></tr>
+?>
+ </td>
+ </tr>
+  <?php include("baixo.php")?>
  </table>
 </body>
 </html>
-
-
