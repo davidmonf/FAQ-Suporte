@@ -5,7 +5,7 @@
   <script type="text/javascript" src="js/prototype.js"></script>
   <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
   <script type="text/javascript" src="js/lightbox.js"></script>
-  <link rel="stylesheet" type="text/css" href="lol.css" media="screen"/>
+  <link rel="stylesheet" type="text/css" href="lol.css?v=1.1" media="screen"/>
   <link rel="icon" type="image/png" href="null" />
   <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
 </head>

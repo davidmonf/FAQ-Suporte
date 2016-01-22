@@ -69,6 +69,8 @@ body {
 	top: 45px; 
 	left: 370px; 
 	height: 0px;
+	width: 400px;
+
 }	
 
 .win.gecko .linktopo_logado /*Para Firefox*/
@@ -77,6 +79,8 @@ body {
 	top: 40px; 
 	left: 370px; 
 	height: 0px;
+	width: 600px;
+
 }	
 
 .linktopo_logado
@@ -101,6 +105,8 @@ body {
 	top: 215px; 
 	left: 520px; 
 	height: 0px;
+	width: 600px;
+
 }
 
 .pendentes
@@ -238,7 +244,7 @@ text-decoration:underline;
 .baixo {
 	position: relative; 
 	top: -80px; 
-	left: 250px; 
+	left: 260px; 
 	height: 0px;
 	font-size:11px;
 	width:500;

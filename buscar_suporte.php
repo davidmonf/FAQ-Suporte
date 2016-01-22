@@ -1,17 +1,15 @@
 <html>
 <head>
 	<title>CIEE :: Central de Ajuda</title>
-  <link rel="stylesheet" type="text/css" href="lol.css" />
+  <link rel="stylesheet" type="text/css" href="lol.css?v=1.1" />
   <link rel="icon" type="image/png" href="null" />
   <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
 </head>
 <body>
 <body>
-<table width="600" align="center">
-<tr><td><?php include("topo.php")?></td></tr>
-<tr><td><?php include("busca_suporte.php")?></td></tr>
-<tr><td><?php include("categorias_suporte.php")?></td></tr>
-<tr><td width="800">
+	<table align="center"class="conteudo">
+	<?php include("topo_completo_sup.php")?>
+<tr><td align=center>
 <?php
 	protegePagina(); // Chama a função que protege a página
 	include("conexao.php");
@@ -26,7 +24,7 @@
 	if (mysql_num_rows($result) > 0)
 	{
 	echo "<h3>Você buscou por \"$busca\" e foram encontrados os seguintes resultados:</h3>";
-	echo "<div class='ajudas'>";
+	//echo "<div class='ajudas'>";
 	echo "<table align='center'>";
 	while ($resultado = mysql_fetch_assoc($result)) {
 	$titulo = $resultado['TITULO'];
@@ -37,7 +35,7 @@
 	echo '</tr>';
 	}
 	echo "</table>";
-	echo "</div>";
+	//echo "</div>";
 	echo '<a href="sugestao.php" title="Sugerir um tópico" class="lnk_menu">Sugerir um tópico</a>';
 	}
 	else

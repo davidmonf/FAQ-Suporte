@@ -5,18 +5,17 @@
   <script type="text/javascript" src="js/prototype.js"></script>
   <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
   <script type="text/javascript" src="js/lightbox.js"></script>
-  <link rel="stylesheet" type="text/css" href="lol.css" media="screen"/>
+  <script src="css_browser_selector.js" type="text/javascript"></script>
+  <link rel="stylesheet" type="text/css" href="lol.css?v=1.1" media="screen"/>
   <link rel="icon" type="image/png" href="null" />
   <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
 </head>
 <body onload="form1.data_inicial.focus()">
-<table width="600" align="center" border=0 class="conteudo">
-<tr><td><?php include("topo.php")?></td></tr>
-<tr><td><?php include("busca.php")?></td></tr>
-<tr><td><?php include("categorias.php")?></td></tr>
-<tr><td><a href = "javascript:history.back()">  Voltar  </a></tr></td>
-<tr><td align="center" width=630>
-<table align=center>
+	<table align="center"class="conteudo" border=0>
+	<?php include("topo_completo.php")?>
+<tr><td class=espacos><a href = "javascript:history.back()">  Voltar  </a></tr></td>
+<tr><td align=center>
+<table align=center border=0>
 <?php protegePagina(); // Chama a função que protege a página ?>
 <tr><td align=center><h3>Selecione o relat&oacuterio desejado</h3></td></tr>
 <tr><td align=center><a href="relatorio_artigos.php">Relat&oacuterio de acesso dos artigos da <b>Central de Ajuda</b></a></td></tr>

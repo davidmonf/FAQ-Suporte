@@ -1,17 +1,16 @@
 <html>
 <head>
 	<title>CIEE :: Central de Ajuda</title>
-  <link rel="stylesheet" type="text/css" href="lol.css" />
+  <link rel="stylesheet" type="text/css" href="lol.css?v=1.1" />
   <link rel="icon" type="image/png" href="null" />
   <meta http-equiv="Content-Type" content="text/xhtml; charset=latin1_bin" />
+    <script src="css_browser_selector.js" type="text/javascript"></script>
 </head>
 <body>
 <body>
-<table width="600" align="center">
-<tr><td><?php include("topo.php")?></td></tr>
-<tr><td><?php include("busca.php")?></td></tr>
-<tr><td><?php include("categorias.php")?></td></tr>
-<tr><td width="800">
+	<table border=0 align="center"class="conteudo">
+	<?php include("topo_completo.php")?>
+<tr><td width="1024" align=center>
 <?php
 	include("conexao.php");
 	if (!isset($_GET['consulta'])) {
@@ -24,8 +23,8 @@
 	$result = mysql_query($sql, $conecta_banco) or print(mysql_error());
 	if (mysql_num_rows($result) > 0)
 	{
-	echo "<h3>Você buscou por \"$busca\" e foram encontrados os seguintes resultados:</h3>";
-	echo "<div class='ajudas'>";
+	echo "<h3 align=center>Você buscou por \"$busca\" e foram encontrados os seguintes resultados:</h3>";
+	//echo "<div class='ajudas'>";
 	echo "<table align='center'>";
 	while ($resultado = mysql_fetch_assoc($result)) {
 	$titulo = $resultado['TITULO'];
@@ -36,7 +35,7 @@
 	echo '</tr>';
 	}
 	echo "</table>";
-	echo "</div>";
+	//echo "</div>";
 	echo '<a href="sugestao.php" title="Sugerir um tópico" class="lnk_menu">Sugerir um tópico</a>';
 	}
 	else

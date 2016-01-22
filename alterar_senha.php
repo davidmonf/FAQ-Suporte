@@ -1,7 +1,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=latin1_bin" />
-<link rel="stylesheet" type="text/css" href="lol.css" />
+<link rel="stylesheet" type="text/css" href="lol.css?v=1.1" />
 <link rel="icon" type="image/png" href="null" />
 <title>CIEE :: Central de Ajuda</title>
 <script>
